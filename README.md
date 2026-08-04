@@ -13,7 +13,7 @@
                └── 📄AUR-Traditional-Chinese-1.9.2.dll
 ```
 - 用於替換原Among Us Revamped的dll文件（我們未提供BepInEx本體文件，因爲這樣會超過25MB限制）。
-- 安裝完成後即可啓動游戲後即可游玩。
+- 安裝完成後啓動游戲後即可游玩。
 
 ---
 
