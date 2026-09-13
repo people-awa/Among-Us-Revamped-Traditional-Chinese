@@ -18,7 +18,7 @@
 # 致谢
 
 
-## 在這裏非常感謝 [NikoCatvo] (https://github.com/NikoCatvo) 和 [awa122-1] (https://github.com/awa122-1)
+## 在這裏非常感謝 [NikoCatvo](https://github.com/NikoCatvo) 和 [awa122-1](https://github.com/awa122-1)
 
 ### 沒有NikoCatvo提供的代碼，我就沒辦法翻譯sr模式獲勝資訊。
 
